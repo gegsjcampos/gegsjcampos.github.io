@@ -1,0 +1,113 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.gegsjcampos.com.br" resolutions="1x,2x" timestamp="1461615201869">
+  <folder name="css">
+    <file name="site_global.css" crc="3759106221"/>
+    <file name="master_a-master.css" crc="417133317" ref="index:blog"/>
+    <file name="nomq_preview_master_a-master.css" crc="321525473" ref="index:blog"/>
+    <file name="index.css" crc="519798999" ref="index"/>
+    <file name="nomq_index.css" crc="74018321" ref="index"/>
+    <file name="blog.css" crc="3889101011" ref="blog"/>
+    <file name="iefonts_blog.css" crc="246590914" ref="blog"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:blog"/>
+    <file name="museutils.js" crc="3790713428" ref="index:blog"/>
+    <file name="whatinput.js" crc="84559013" ref="index:blog"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
+    <file name="webpro.js" crc="329496574" ref="index"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
+    <file name="touchswipe.js" crc="497316881" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:blog"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="4274592277" ref="index"/>
+    <file name="cardboard-1144x563.jpg" crc="4165202475" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="11128819_419469251564961_4190920668599060587_n.jpg" crc="480287117" seo="true" ref="index"/>
+    <file name="light-apple-books-desk.jpg" crc="4097645436" seo="true" ref="index"/>
+    <file name="bkg_04.jpg" crc="74305810" seo="true" ref="index"/>
+    <file name="arrows-mn_arrow_left.png" crc="319312130" ref="index"/>
+    <file name="arrows-mn_arrow_right.png" crc="418741022" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="svg-colado-485682x504.svg" crc="155371758" ref="index"/>
+    <file name="svg colado 485682x504_poster_.png" crc="505409054" ref="index"/>
+    <file name="u1187-4.png" crc="357966226" ref="index"/>
+    <file name="u1187-4_2x.png" crc="4027982788" ref="index"/>
+    <file name="1510025_419780081533878_7046801823558288331_n.jpg" crc="36962092" seo="true" ref="index"/>
+    <file name="10985916_419778928200660_1793118340062502204_n.jpg" crc="229594146" seo="true" ref="index"/>
+    <file name="11011045_419780211533865_793545757219657710_n.jpg" crc="318629461" seo="true" ref="index"/>
+    <file name="12274205_492096494302236_4586255440893885223_n.jpg" crc="500005763" seo="true" ref="index"/>
+    <file name="12487304_509852712526614_3063139639970066130_o.jpg" crc="485043481" seo="true" ref="index"/>
+    <file name="10269286_532055533639665_2128208221504887350_o.jpg" crc="430876680" seo="true" ref="index"/>
+    <file name="1510025_419780081533878_7046801823558288331_n480x321.jpg" crc="430553282" seo="true" ref="index"/>
+    <file name="1510025_419780081533878_7046801823558288331_n_2x.jpg" crc="36962092" seo="true" ref="index"/>
+    <file name="10985916_419778928200660_1793118340062502204_n-crop-u19282.jpg" crc="4161606238" ref="index"/>
+    <file name="11011045_419780211533865_793545757219657710_n-crop-u19324.jpg" crc="177444923" ref="index"/>
+    <file name="12274205_492096494302236_4586255440893885223_n-crop-u19408.jpg" crc="3808688208" ref="index"/>
+    <file name="12274205_492096494302236_4586255440893885223_n-crop-u19408_2x.jpg" crc="3802187868" ref="index"/>
+    <file name="12487304_509852712526614_3063139639970066130_o-crop-u19450.jpg" crc="233127614" ref="index"/>
+    <file name="12487304_509852712526614_3063139639970066130_o-crop-u19450_2x.jpg" crc="130466713" ref="index"/>
+    <file name="11128819_419469251564961_4190920668599060587_n465x311.jpg" crc="3966342966" seo="true" ref="index"/>
+    <file name="11128819_419469251564961_4190920668599060587_n465x311_2x.jpg" crc="480287117" seo="true" ref="index"/>
+    <file name="10269286_532055533639665_2128208221504887350_o544x272.jpg" crc="409568047" seo="true" ref="index"/>
+    <file name="10269286_532055533639665_2128208221504887350_o544x272_2x.jpg" crc="430876680" seo="true" ref="index"/>
+    <file name="facebook-logo.png" crc="29229021" seo="true" ref="index"/>
+    <file name="facebook-logo_2x.png" crc="208773554" seo="true" ref="index"/>
+    <file name="resize-u19654.png" crc="7889918" ref="index"/>
+    <file name="resize-u19654_2x.png" crc="4077110053" ref="index"/>
+    <file name="captura de tela 2016-04-25 às 163656.png" crc="73512148" seo="true" ref="index"/>
+    <file name="captura de tela 2016-04-25 às 163656_2x.png" crc="4058264809" seo="true" ref="index"/>
+    <file name="u19699-7.png" crc="275238214" ref="index"/>
+    <file name="u19699-7_2x.png" crc="4057756114" ref="index"/>
+    <file name="u1187-42.png" crc="55013060" ref="index"/>
+    <file name="u1187-4_2x2.png" crc="3844649935" ref="index"/>
+    <file name="1510025_419780081533878_7046801823558288331_n408x272.jpg" crc="156711603" seo="true" ref="index"/>
+    <file name="1510025_419780081533878_7046801823558288331_n408x272_2x.jpg" crc="36962092" seo="true" ref="index"/>
+    <file name="10985916_419778928200660_1793118340062502204_n418x272.jpg" crc="4094197907" seo="true" ref="index"/>
+    <file name="11011045_419780211533865_793545757219657710_n408x272.jpg" crc="3813956876" seo="true" ref="index"/>
+    <file name="12274205_492096494302236_4586255440893885223_n363x272.jpg" crc="3822467594" seo="true" ref="index"/>
+    <file name="12274205_492096494302236_4586255440893885223_n363x272_2x.jpg" crc="500005763" seo="true" ref="index"/>
+    <file name="12487304_509852712526614_3063139639970066130_o602x269.jpg" crc="4200052666" seo="true" ref="index"/>
+    <file name="12487304_509852712526614_3063139639970066130_o602x269_2x.jpg" crc="485043481" seo="true" ref="index"/>
+    <file name="11128819_419469251564961_4190920668599060587_n480x321.jpg" crc="3787805658" seo="true" ref="index"/>
+    <file name="11128819_419469251564961_4190920668599060587_n_2x.jpg" crc="480287117" seo="true" ref="index"/>
+    <file name="10269286_532055533639665_2128208221504887350_o602x301.jpg" crc="361743494" seo="true" ref="index"/>
+    <file name="10269286_532055533639665_2128208221504887350_o602x301_2x.jpg" crc="430876680" seo="true" ref="index"/>
+    <file name="facebook-logo102x102.png" crc="178992206" seo="true" ref="index"/>
+    <file name="facebook-logo102x102_2x.png" crc="4165884120" seo="true" ref="index"/>
+    <file name="resize-u196542.png" crc="106658829" ref="index"/>
+    <file name="resize-u19654_2x2.png" crc="3985927002" ref="index"/>
+    <file name="captura de tela 2016-04-25 às 163656101x101.png" crc="4166306279" seo="true" ref="index"/>
+    <file name="captura de tela 2016-04-25 às 163656101x101_2x.png" crc="3761939572" seo="true" ref="index"/>
+    <file name="u19699-72.png" crc="3923033957" ref="index"/>
+    <file name="u19699-7_2x2.png" crc="4067537872" ref="index"/>
+    <file name="arrows-u96-3-fr.png" crc="4008847128" ref="index"/>
+    <file name="arrows-u88-3-fr.png" crc="44461292" ref="index"/>
+    <file name="u1187-43.png" crc="431010597" ref="index"/>
+    <file name="u1187-4_2x3.png" crc="3921203332" ref="index"/>
+    <file name="1510025_419780081533878_7046801823558288331_n318x213.jpg" crc="287965308" seo="true" ref="index"/>
+    <file name="1510025_419780081533878_7046801823558288331_n318x213_2x.jpg" crc="36962092" seo="true" ref="index"/>
+    <file name="10985916_419778928200660_1793118340062502204_n318x208.jpg" crc="358945795" seo="true" ref="index"/>
+    <file name="11011045_419780211533865_793545757219657710_n318x213.jpg" crc="3953451327" seo="true" ref="index"/>
+    <file name="12274205_492096494302236_4586255440893885223_n330x248.jpg" crc="4193263419" seo="true" ref="index"/>
+    <file name="12274205_492096494302236_4586255440893885223_n330x248_2x.jpg" crc="500005763" seo="true" ref="index"/>
+    <file name="12487304_509852712526614_3063139639970066130_o-crop-u194502.jpg" crc="4249532084" ref="index"/>
+    <file name="12487304_509852712526614_3063139639970066130_o-crop-u19450_2x2.jpg" crc="3965091711" ref="index"/>
+    <file name="11128819_419469251564961_4190920668599060587_n-crop-u18900.jpg" crc="3786940330" ref="index"/>
+    <file name="11128819_419469251564961_4190920668599060587_n-crop-u18900_2x.jpg" crc="3857850241" ref="index"/>
+    <file name="10269286_532055533639665_2128208221504887350_o-crop-u18958.jpg" crc="3844270577" ref="index"/>
+    <file name="10269286_532055533639665_2128208221504887350_o-crop-u18958_2x.jpg" crc="122953409" ref="index"/>
+    <file name="facebook-logo76x77.png" crc="4151337783" seo="true" ref="index"/>
+    <file name="facebook-logo76x77_2x.png" crc="4268809502" seo="true" ref="index"/>
+    <file name="resize-u196543.png" crc="220947921" ref="index"/>
+    <file name="resize-u19654_2x3.png" crc="412513580" ref="index"/>
+    <file name="captura de tela 2016-04-25 às 16365671x71.png" crc="3761126067" seo="true" ref="index"/>
+    <file name="captura de tela 2016-04-25 às 16365671x71_2x.png" crc="4264310182" seo="true" ref="index"/>
+    <file name="u19699-73.png" crc="4124189513" ref="index"/>
+    <file name="u19699-7_2x3.png" crc="3883625374" ref="index"/>
+    <file name="untitled-1.png" crc="4231729736" ref="blog"/>
+  </folder>
+  <file name="index.html" crc="3793857046" seo="true" mt="1461615081063" redirect="true"/>
+  <file name="blog.html" crc="231610234" seo="true" mt="1461614986091" redirect="true"/>
+</manifest>
